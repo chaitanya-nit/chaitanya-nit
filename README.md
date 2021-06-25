@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chaitanya-nit
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Neural Networks
+- 👀 I am working in Artificial Intelligence.
 - 📫 How to reach me https://www.linkedin.com/in/krishna-chaitanya-pucha/
 
 <!---
